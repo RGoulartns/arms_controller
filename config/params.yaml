@@ -1,0 +1,6 @@
+arms_controller_node:
+  ros__parameters:
+    arms:
+        - [ 'left_gripper',  '0' ]
+        - [ 'right_gripper', '1' ]
+
